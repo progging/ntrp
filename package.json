@@ -1,6 +1,6 @@
 {
   "name": "ntrp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "String interpolator",
   "source": "dist/main.module.js",
   "module": "dist/main.module.js",
