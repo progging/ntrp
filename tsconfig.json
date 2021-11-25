@@ -1,6 +1,4 @@
 {
-  "compilerOptions": {
-    "esModuleInterop": true
-  },
+  "extends": "@tsconfig/recommended/tsconfig.json",
   "include": ["src/**/*", "test/**/*"]
 }
